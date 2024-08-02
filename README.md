@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FrasapDev
-- I'm currently attempting a bachelon degree in Computer Science at UniMib
+- I'm currently attending a bachelon degree in Computer Science at UniMib
 - 👀 I’m interested in coding experiences
 - 🌱 I’m currently learning python and AWS
 - 💞️ I’m looking to collaborate on multiple projects
